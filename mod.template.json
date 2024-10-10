@@ -17,6 +17,10 @@
     "fileCopies": [],
     "copyExtensions": [
         {
+            "extension": "qsaber",
+            "destination": "/sdcard/ModData/com.beatgames.beatsaber/Mods/Qosmetics/Whackers/"
+        },
+        {
             "extension": "whacker",
             "destination": "/sdcard/ModData/com.beatgames.beatsaber/Mods/Qosmetics/Whackers/"
         },
