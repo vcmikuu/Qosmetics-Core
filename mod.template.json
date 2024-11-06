@@ -21,6 +21,14 @@
             "destination": "/sdcard/ModData/com.beatgames.beatsaber/Mods/Qosmetics/Whackers/"
         },
         {
+            "extension": "qwall",
+            "destination": "/sdcard/ModData/com.beatgames.beatsaber/Mods/Qosmetics/Boxes/"
+        },
+        {
+            "extension": "qbloq",
+            "destination": "/sdcard/ModData/com.beatgames.beatsaber/Mods/Qosmetics/Cyoobs/"
+        },
+        {
             "extension": "whacker",
             "destination": "/sdcard/ModData/com.beatgames.beatsaber/Mods/Qosmetics/Whackers/"
         },
